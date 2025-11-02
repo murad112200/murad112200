@@ -1,8 +1,8 @@
-![Python & Django Developer | Building web apps with love and logic ❤️](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/573325858_1395675568850236_7608006452990609988_n.png?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHxi0WfUA2VYclV4L4WiHxkwlgX4BTI68nCWBfgFMjrySPduSmK64klP5i4bQ-eLUcjVj0yCLfLwjzWZHj9DLnv&_nc_ohc=t3ufHnCLGvMQ7kNvwEbsae6&_nc_oc=AdmjLVnIpYH3F6fNZiCrewOUm8XCysoZ-e7EkcOSc6Q2yEjusVlx9lehncqLJbCHVtI&_nc_zt=23&_nc_ht=scontent.fdac20-1.fna&_nc_gid=yBJl2tZjCZ8IeyGJBGMGPg&oh=00_AfiwOeOSzQIRdydT9jsANyQD4eFnD4T8qSc-kpTDw52rcQ&oe=690CBC09)
+![Python & Django Developer | Building web apps with love and logic ❤️](https://media.licdn.com/dms/image/v2/D5622AQHs-81rd8PH7g/feedshare-shrink_1280/B56ZpDVDJYHYAs-/0/1762066183996?e=1763596800&v=beta&t=mGxuvF6CsDcCBp9dMnDGZeG4128x5weRY3oDdLBOJpY)
+
 
 ### Hi there 👋, Hi, I'm Murad islam 👋
 #### Python & Django Developer | Building web apps with love and logic ❤️
-
 
 👋 Hi! I’m Murad Islam, a passionate Python & Django Developer from Bangladesh.
 I love building dynamic and user-friendly web applications that solve real-world problems.
@@ -21,4 +21,6 @@ Skills: PYTHON /DJANGO/ REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=murad112200&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/murad112200/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/murad112200)  
 
