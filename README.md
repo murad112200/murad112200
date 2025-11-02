@@ -1,33 +1,59 @@
-![Python & Django Developer | Building web apps with love and logic ❤️](https://media.licdn.com/dms/image/v2/D5622AQGoD7vKBVjg7w/feedshare-shrink_800/B56ZpDhVOxIsAg-/0/1762069403118?e=1763596800&v=beta&t=PEzcPLdlNd61sq5X-POAK6-vvvRMWMF5QxhVRLgTfkE)
+<!-- 🌟 Profile Banner -->
+![Header](https://your-banner-image-link.com) <!-- এখানে তোমার ব্যানার ইমেজের লিংক দাও -->
 
-### Hi there 👋, Hi, I'm Murad islam 👋
-#### Python & Django Developer | Building web apps with love and logic ❤️
+<h1 align="center">👋 Hello, I'm Murad Islam</h1>
+<h3 align="center">💻 Python & Django Developer | Future Software Engineer</h3>
 
+---
 
-👋 Hi! I’m Murad Islam, a passionate Python & Django Developer from Bangladesh.
-I love building dynamic and user-friendly web applications that solve real-world problems.
-Currently, I’m learning advanced Django concepts and developing my own eCommerce  projects.
+## 🧠 About Me
 
-Skills: PYTHON /DJANGO/ REACT / JS / HTML / CSS
+🔭 Currently working on **Django-based full-stack web applications**  
+🌱 Learning **RESTful APIs**, **React**, and **Advanced backend patterns**  
+💬 Ask me about: **Python**, **Django**, **JavaScript**, **Bootstrap**, **MySQL**  
+🧩 Interested in: **Clean code**, **UI/UX**, and **Scalable system design**  
+📫 Reach me at: [portfolio.taptaptyping.com](https://portfolio.taptaptyping.com)  
+⚡ Fun fact: I drink **black coffee at midnight** while building magic ☕✨  
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python, django , react 
+---
 
+## 🛠️ Languages & Tools  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/murad112200)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/murad-islam-95b490361//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/muradislam.murad.16)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,git,github,vscode,react,tailwind,php,wordpress" />
+</p>
 
-  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/murad112200)  
-🧠 About Me
+## 📊 GitHub Stats  
 
-🔭 Currently working on Django-based full-stack web applications
-🌱 Learning RESTful APIs, React, and advanced backend patterns
-💬 Ask me about: Python, Django, JavaScript, Bootstrap, MySQL
-🧩 Interested in: Clean code, UI/UX, and Scalable system design
-📫 Reach me at: portfolio.taptaptyping.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuradIslam&show_icons=true&theme=tokyonight" alt="Murad's GitHub stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIslam&layout=compact&theme=tokyonight" alt="Top Languages" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuradIslam&theme=tokyonight" alt="GitHub Streak" /><br>
+  <img src="https://komarev.com/ghpvc/?username=MuradIslam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-⚡ Fun fact: I drink black coffee at midnight while building magic ☕✨
+---
 
-🛠️ Languages & Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,git,github,vscode,react,tailwind,php,wordpress" /> </p>
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://portfolio.taptaptyping.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/your-link" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🏆 Achievements  
+- 🎯 Completed multiple Django projects (eCommerce, Social Media, Blog System)  
+- 💼 Focused on learning **clean architecture** and **API development**  
+- 🚀 Goal: Become a top-level **Software Engineer at Google**  
+
+---
+
+⭐ **“Code. Learn. Build. Repeat.”**  
+🕋 *Alhamdulillah for everything.*
+
