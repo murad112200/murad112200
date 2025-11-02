@@ -1,8 +1,8 @@
-![Python & Django Developer | Building web apps with love and logic ❤️](https://media.licdn.com/dms/image/v2/D5622AQHs-81rd8PH7g/feedshare-shrink_1280/B56ZpDVDJYHYAs-/0/1762066183996?e=1763596800&v=beta&t=mGxuvF6CsDcCBp9dMnDGZeG4128x5weRY3oDdLBOJpY)
-
+![Python & Django Developer | Building web apps with love and logic ❤️](https://media.licdn.com/dms/image/v2/D5622AQGoD7vKBVjg7w/feedshare-shrink_800/B56ZpDhVOxIsAg-/0/1762069403118?e=1763596800&v=beta&t=PEzcPLdlNd61sq5X-POAK6-vvvRMWMF5QxhVRLgTfkE)
 
 ### Hi there 👋, Hi, I'm Murad islam 👋
 #### Python & Django Developer | Building web apps with love and logic ❤️
+
 
 👋 Hi! I’m Murad Islam, a passionate Python & Django Developer from Bangladesh.
 I love building dynamic and user-friendly web applications that solve real-world problems.
