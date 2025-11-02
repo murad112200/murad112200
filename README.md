@@ -24,13 +24,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuradIslam&show_icons=true&theme=tokyonight" alt="Murad's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuradIslam&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=murad112200&show_icons=true&theme=tokyonight" alt="Murad's GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murad112200&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuradIslam&theme=tokyonight" alt="GitHub Streak" />
-  <img width="48%" src="https://komarev.com/ghpvc/?username=MuradIslam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=murad112200&theme=tokyonight" alt="GitHub Streak" />
+  <img width="48%" src="https://komarev.com/ghpvc/?username=murad112200&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
