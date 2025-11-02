@@ -10,9 +10,7 @@
 
 🔭 Currently working on **Django-based full-stack web applications**  
 🌱 Learning **RESTful APIs**, **React**, and **Advanced backend patterns**  
-💬 Ask me about: **Python**, **Django**, **JavaScript**, **Bootstrap**, **MySQL**  
-🧩 Interested in: **Clean code**, **UI/UX**, and **Scalable system design**  
-📫 Reach me at: [portfolio.taptaptyping.com](https://portfolio.taptaptyping.com)  
+💬 Ask me about: **Python**, **Django**, **JavaScript**, **Bootstrap**, **MySQL**   
 ⚡ Fun fact: I drink **black coffee at midnight** while building magic ☕✨  
 
 ---
