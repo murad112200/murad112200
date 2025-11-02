@@ -28,3 +28,6 @@ Skills: PYTHON /DJANGO/ REACT / JS / HTML / CSS
 📫 Reach me at: portfolio.taptaptyping.com
 
 ⚡ Fun fact: I drink black coffee at midnight while building magic ☕✨
+
+🛠️ Languages & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,git,github,vscode,react,tailwind,php,wordpress" /> </p>
