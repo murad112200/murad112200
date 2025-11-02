@@ -1,6 +1,4 @@
 <!-- 🌟 Profile Banner -->
-[![Header](https://your-banner-image-link.com) ](https://media.licdn.com/dms/image/v2/D5622AQGoD7vKBVjg7w/feedshare-shrink_1280/B56ZpDhVOxIsAs-/0/1762069403120?e=1763596800&v=beta&t=MiuJUukbr2XNr4zOl_98_8XXtJT4viw-C6lbr-1Dxlw)<!-- এখানে তোমার ব্যানার ইমেজের লিংক দাও -->
-
 <h1 align="center">👋 Hello, I'm Murad Islam</h1>
 <h3 align="center">💻 Python & Django Developer | Future Software Engineer</h3>
 
