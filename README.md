@@ -38,9 +38,9 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/murad-islam-95b490361/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/muradislam.murad.16/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="muradislammurad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
